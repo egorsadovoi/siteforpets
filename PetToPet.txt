@@ -1,0 +1,11 @@
+*PetToPet*
+=======
+Web-site only for pets.
+------------
+When your host goes out of the home, you can come here, sign up, and start chatting with your freinds.
+Also you can post:
+-Photos
+-Videos
+-News
+-Text
+-And more.

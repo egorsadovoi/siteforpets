@@ -1,0 +1,17 @@
+*News*
+======
+[photo sender] Мурчик	- posted photo
+	[photo his home]
+	at 14:10
+								97 likes
+-------
+[photo sender] Симка - posted news
+	My dinner
+	[photo food]
+								at 15:00
+								145 likes
+	-------
+[photo sender] Пират - commented Симка news
+	mmmmm... It's realy tasty! 
+							at 17:31
+							174 likes

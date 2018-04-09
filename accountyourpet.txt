@@ -1,0 +1,27 @@
+[your photo]
+Барсик
+====
+Birthday:
+---
+2:11:15
+Hobby:
+----
+-eat
+-sleep
+-walking
+Faivorite toys:
+-------
+-host's sock
+-sofa
+-thread of thread
+Favorite food:
+------
+-meat
+-meat
+-meat
+Drinks:
+-----
+-water
+-milk
+{Contacts}
+{tel number}
